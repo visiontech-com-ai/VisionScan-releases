@@ -1,4 +1,176 @@
-# VisionScan releases
+# VisionScan
 
-Public download host for VisionScan Windows builds. Used by the app auto-updater.
-Source: private repo visiontech-com-ai/VisionScan.
+**VisionScan by [Vision Technologies and Robotics](https://www.visiontech.com.in)** — a simple Windows app to scan your papers and save them as a **PDF** (or image), in one click.
+
+➡️ **[Download the latest version](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — get the `.zip`, unzip it anywhere, and run `VisionScan.exe`. No install needed.
+
+The app also updates itself from this page.
+
+---
+
+## What the screen looks like
+
+![VisionScan main window](docs/overview.png)
+
+Three parts to know:
+
+1. **Left side** — your scan settings and the **Scan** / **Save PDF** buttons.
+2. **Middle** — the **preview** of the page you scanned or opened.
+3. **Right side** — the list of **files you have saved**.
+
+---
+
+## 1. Scan to a size limit (size-driven scan)
+
+<img src="docs/size-scan.png" width="280" align="right" alt="Size settings" />
+
+Some websites only accept small files (like "under 500 KB"). VisionScan can do this for you.
+
+**How:**
+
+1. In the **File Name** box, type a name (example: `aadhaar`).
+2. In **File type**, choose **PDF**.
+3. In **Max file size (KB)**, type a number. `500` means about 500 KB.
+4. Click **Scan**, then **Save PDF**.
+
+VisionScan makes the file fit under the size you asked for. It first lowers the quality a little; if it is still too big, it makes the picture smaller. **Leave the box empty if you do not want any limit.**
+
+<br clear="all" />
+
+---
+
+## 2. The saved files list (file grid)
+
+![Saved files list](docs/file-grid.png)
+
+Every file you save shows up on the **right side**, newest on top. For each file you see:
+
+- **Date / Time** — when you saved it
+- **File name**
+- **Location** — the folder it is in
+- **Size**
+
+Type in the **Search saved files…** box to find one quickly. This list stays even after you close and open the app again.
+
+> 💡 If a file with the same name already exists, VisionScan adds the time to the new name. **Your old files are never deleted or replaced.**
+
+---
+
+## 3. The preview panel
+
+<img src="docs/preview-panel.png" width="220" align="right" alt="Preview panel" />
+
+The **middle** of the window shows what you scanned or opened, so you can check it **before** you save.
+
+- Click **Scan** to bring a page from your scanner into the preview.
+- Or click **Import** to open a picture or PDF you already have.
+- After you save, the preview keeps showing your last file. The next time you scan, it starts fresh.
+- Tick **Combine pages into one file** to put many pages into **one** PDF.
+
+<br clear="all" />
+
+---
+
+## Quick start (the whole thing)
+
+1. Type a **File Name** (example: `birth-certificate`).
+2. Choose **File type** = **PDF**.
+3. *(Optional)* Set **Max file size (KB)**, example `500`.
+4. Put your paper in the scanner and click **Scan**. *(Or click **Import** to open a file you already have.)*
+5. Click **Save PDF**.
+
+Your file is saved to the **Output folder** and appears in the **Saved files** list on the right.
+
+> ⌨️ **Tip:** Press **Enter** in the File Name box to start scanning right away.
+
+---
+---
+
+# ভিশনস্ক্যান (VisionScan)
+
+**ভিশনস্ক্যান — [Vision Technologies and Robotics](https://www.visiontech.com.in) থেকে।** এটি একটি সহজ Windows অ্যাপ, যা দিয়ে আপনি আপনার কাগজ স্ক্যান করে **PDF** (বা ছবি) হিসেবে সেভ করতে পারেন — মাত্র এক ক্লিকে।
+
+➡️ **[সর্বশেষ ভার্সন ডাউনলোড করুন](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — `.zip` ফাইলটি নামিয়ে যেকোনো জায়গায় আনজিপ করুন এবং `VisionScan.exe` চালান। ইনস্টল করার দরকার নেই।
+
+অ্যাপটি নিজে থেকেই এই পেজ থেকে আপডেট নিয়ে নেয়।
+
+---
+
+## স্ক্রিনটি দেখতে কেমন
+
+![ভিশনস্ক্যান মূল উইন্ডো](docs/overview.png)
+
+তিনটি অংশ চিনে রাখুন:
+
+1. **বাঁ দিক** — স্ক্যানের সেটিং এবং **Scan** / **Save PDF** বোতাম।
+2. **মাঝখান** — আপনি যে পেজ স্ক্যান বা ওপেন করেছেন তার **প্রিভিউ**।
+3. **ডান দিক** — আপনি যেসব ফাইল **সেভ করেছেন** তার তালিকা।
+
+---
+
+## ১. নির্দিষ্ট সাইজে স্ক্যান (size-driven scan)
+
+<img src="docs/size-scan.png" width="280" align="right" alt="সাইজ সেটিং" />
+
+অনেক ওয়েবসাইট শুধু ছোট ফাইল নেয় (যেমন "৫০০ KB-এর কম")। ভিশনস্ক্যান এটি আপনার হয়ে করে দিতে পারে।
+
+**যেভাবে করবেন:**
+
+1. **File Name** ঘরে একটি নাম লিখুন (যেমন: `aadhaar`)।
+2. **File type**-এ **PDF** বেছে নিন।
+3. **Max file size (KB)** ঘরে একটি সংখ্যা লিখুন। `500` মানে প্রায় ৫০০ KB।
+4. **Scan** চাপুন, তারপর **Save PDF** চাপুন।
+
+ভিশনস্ক্যান ফাইলটিকে আপনার বলা সাইজের নিচে নামিয়ে আনে। প্রথমে সামান্য কোয়ালিটি কমায়; তাতেও বড় থাকলে ছবিটিকে ছোট করে। **কোনো সীমা না চাইলে ঘরটি খালি রাখুন।**
+
+<br clear="all" />
+
+---
+
+## ২. সেভ করা ফাইলের তালিকা (file grid)
+
+![সেভ করা ফাইলের তালিকা](docs/file-grid.png)
+
+আপনি যে ফাইলই সেভ করেন সেটি **ডান দিকে** দেখা যায়, নতুনটি সবার উপরে। প্রতিটি ফাইলের জন্য দেখবেন:
+
+- **Date / Time** — কখন সেভ করেছেন
+- **File name** — ফাইলের নাম
+- **Location** — কোন ফোল্ডারে আছে
+- **Size** — ফাইলের সাইজ
+
+**Search saved files…** ঘরে লিখে দ্রুত খুঁজে নিতে পারেন। অ্যাপ বন্ধ করে আবার খুললেও এই তালিকা থেকে যায়।
+
+> 💡 একই নামের ফাইল আগে থেকে থাকলে ভিশনস্ক্যান নতুন নামের সাথে সময় জুড়ে দেয়। **আপনার পুরনো ফাইল কখনো মুছে যায় না বা বদলে যায় না।**
+
+---
+
+## ৩. প্রিভিউ প্যানেল
+
+<img src="docs/preview-panel.png" width="220" align="right" alt="প্রিভিউ প্যানেল" />
+
+উইন্ডোর **মাঝখানে** আপনি যা স্ক্যান বা ওপেন করেছেন তা দেখা যায়, যাতে সেভ করার **আগেই** যাচাই করে নিতে পারেন।
+
+- স্ক্যানার থেকে পেজ আনতে **Scan** চাপুন।
+- অথবা আগে থেকে থাকা ছবি বা PDF খুলতে **Import** চাপুন।
+- সেভ করার পর প্রিভিউতে আপনার শেষ ফাইলটি দেখাতে থাকে। পরেরবার স্ক্যান করলে নতুন করে শুরু হয়।
+- অনেক পেজ **এক** PDF-এ রাখতে **Combine pages into one file** টিক দিন।
+
+<br clear="all" />
+
+---
+
+## দ্রুত শুরু (পুরো কাজটি)
+
+1. একটি **File Name** লিখুন (যেমন: `birth-certificate`)।
+2. **File type** = **PDF** বেছে নিন।
+3. *(ইচ্ছা করলে)* **Max file size (KB)** দিন, যেমন `500`।
+4. স্ক্যানারে কাগজ রেখে **Scan** চাপুন। *(অথবা আগে থেকে থাকা ফাইল খুলতে **Import** চাপুন।)*
+5. **Save PDF** চাপুন।
+
+আপনার ফাইল **Output folder**-এ সেভ হয় এবং ডান দিকের **Saved files** তালিকায় দেখা যায়।
+
+> ⌨️ **টিপ:** File Name ঘরে **Enter** চাপলেই সাথে সাথে স্ক্যান শুরু হয়।
+
+---
+
+<sub>Public download host for VisionScan Windows builds. Used by the app auto-updater. Source: private repo `visiontech-com-ai/VisionScan`.</sub>
