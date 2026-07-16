@@ -84,6 +84,18 @@ Your file is saved to the **Output folder** and appears in the **Saved files** l
 > ⌨️ **Tip:** Press **Enter** in the File Name box to start scanning right away.
 
 ---
+
+## Keeping VisionScan up to date
+
+VisionScan can update itself from this page — you do not need to reinstall.
+
+1. Click **About** (top-right corner).
+2. Tick **Check for updates**.
+3. If a newer version is out, an **Install …** link appears. Click it — the new version downloads and installs by itself, then VisionScan restarts.
+
+You can also download the newest `.zip` from the **[Releases page](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** at any time.
+
+---
 ---
 
 # ভিশনস্ক্যান (VisionScan)
@@ -170,6 +182,18 @@ Your file is saved to the **Output folder** and appears in the **Saved files** l
 আপনার ফাইল **Output folder**-এ সেভ হয় এবং ডান দিকের **Saved files** তালিকায় দেখা যায়।
 
 > ⌨️ **টিপ:** File Name ঘরে **Enter** চাপলেই সাথে সাথে স্ক্যান শুরু হয়।
+
+---
+
+## ভিশনস্ক্যান আপডেট রাখা
+
+ভিশনস্ক্যান এই পেজ থেকে নিজে আপডেট নিতে পারে — আবার নতুন করে ইনস্টল করতে হয় না।
+
+1. উপরে ডান দিকে **About** ক্লিক করুন।
+2. **Check for updates** টিক দিন।
+3. নতুন ভার্সন থাকলে একটি **Install …** লিঙ্ক আসে। ক্লিক করলেই নতুন ভার্সন নিজে নেমে ইনস্টল হয়ে যায়, তারপর ভিশনস্ক্যান আবার চালু হয়।
+
+চাইলে যেকোনো সময় **[Releases পেজ](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** থেকে নতুন `.zip` ডাউনলোড করতে পারেন।
 
 ---
 
