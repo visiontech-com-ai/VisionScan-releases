@@ -71,6 +71,25 @@ The **middle** of the window shows what you scanned or opened, so you can check 
 
 ---
 
+## 4. Two sides on one page (ID cards)
+
+<img src="docs/combine-a4.png" width="230" align="right" alt="Two card sides combined onto one page" />
+
+Scan both sides of a card — Aadhaar, PAN, voter ID (EPIC), driving licence — and put them **on one page**, like a photocopy.
+
+**How:**
+
+1. **Scan** (or **Import**) side 1, then side 2 — now you have two pages.
+2. Type a **File Name** and pick the **File type** and, if you want, a **Max file size (KB)**.
+3. Click **Combine to page**. A small window shows both sides on one sheet — you can flip the layout or swap top/bottom, then click **OK**.
+4. VisionScan saves one file with both sides.
+
+The combined page uses the **Page size** you picked on the left (A4, Letter, …) and is squeezed under your **Max file size** too. Tick **Keep original pages** in the window if you also want to keep the two single scans.
+
+<br clear="all" />
+
+---
+
 ## Quick start (the whole thing)
 
 1. Type a **File Name** (example: `birth-certificate`).
@@ -166,6 +185,25 @@ You can also download the newest `.zip` from the **[Releases page](https://githu
 - অথবা আগে থেকে থাকা ছবি বা PDF খুলতে **Import** চাপুন।
 - সেভ করার পর প্রিভিউতে আপনার শেষ ফাইলটি দেখাতে থাকে। পরেরবার স্ক্যান করলে নতুন করে শুরু হয়।
 - অনেক পেজ **এক** PDF-এ রাখতে **Combine pages into one file** টিক দিন।
+
+<br clear="all" />
+
+---
+
+## ৪. এক পেজে দুই দিক (আইডি কার্ড)
+
+<img src="docs/combine-a4.png" width="230" align="right" alt="দুই দিক এক পেজে" />
+
+কার্ডের দুই দিক — আধার, প্যান, ভোটার আইডি (EPIC), ড্রাইভিং লাইসেন্স — স্ক্যান করে **এক পেজে** বসান, ফটোকপির মতো।
+
+**যেভাবে করবেন:**
+
+1. আগে **Scan** (বা **Import**) দিয়ে ১ম দিক, তারপর ২য় দিক আনুন — এখন দুটি পেজ হলো।
+2. একটি **File Name** লিখুন, **File type** বেছে নিন, চাইলে **Max file size (KB)** দিন।
+3. **Combine to page** চাপুন। একটি ছোট উইন্ডোতে দুই দিক এক পেজে দেখাবে — চাইলে সাজানো বদলান বা উপর-নিচ অদল-বদল করুন, তারপর **OK** চাপুন।
+4. ভিশনস্ক্যান দুই দিক সহ একটি ফাইল সেভ করে।
+
+কম্বাইন করা পেজটি বাঁ দিকে বেছে নেওয়া **Page size** (A4, Letter …) অনুযায়ী হয় এবং আপনার **Max file size**-এর নিচেও নামিয়ে আনা হয়। দুটি আলাদা স্ক্যানও রাখতে চাইলে উইন্ডোতে **Keep original pages** টিক দিন।
 
 <br clear="all" />
 
