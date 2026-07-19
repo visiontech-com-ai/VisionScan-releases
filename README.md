@@ -90,6 +90,24 @@ The combined page uses the **Page size** you picked on the left (A4, Letter, …
 
 ---
 
+## 5. Skip blank pages
+
+<img src="docs/blank-pages.png" width="220" align="right" alt="Ask about blank pages checkbox" />
+
+Two-sided papers often have empty backs. VisionScan can find blank pages for you and let you drop them.
+
+**How:**
+
+1. Tick **Ask about blank pages** on the left.
+2. Scan your stack — flatbed or feeder (ADF).
+3. When the scan finishes, any blank pages are **highlighted** and VisionScan asks *"2 blank page(s) were detected — delete them?"* Click **Yes** to remove them, or **No** to keep them.
+
+> ℹ️ **Note:** If you save each scan straight to a file (a **File Name** is set *and* **Combine pages into one file** is **off**), each page is saved the moment it's scanned — so deleting a blank afterwards clears it from the preview but **not** from the already-saved file. To review blanks **before** saving, tick **Combine pages into one file** (or leave the File Name empty), then click **Save PDF** once you're happy.
+
+<br clear="all" />
+
+---
+
 ## Quick start (the whole thing)
 
 1. Type a **File Name** (example: `birth-certificate`).
@@ -204,6 +222,24 @@ You can also download the newest `.zip` from the **[Releases page](https://githu
 4. ভিশনস্ক্যান দুই দিক সহ একটি ফাইল সেভ করে।
 
 কম্বাইন করা পেজটি বাঁ দিকে বেছে নেওয়া **Page size** (A4, Letter …) অনুযায়ী হয় এবং আপনার **Max file size**-এর নিচেও নামিয়ে আনা হয়। দুটি আলাদা স্ক্যানও রাখতে চাইলে উইন্ডোতে **Keep original pages** টিক দিন।
+
+<br clear="all" />
+
+---
+
+## ৫. ফাঁকা পেজ বাদ দিন
+
+<img src="docs/blank-pages.png" width="220" align="right" alt="ফাঁকা পেজ সম্পর্কে জিজ্ঞাসা" />
+
+দুই দিকের কাগজের পেছনটা প্রায়ই ফাঁকা থাকে। ভিশনস্ক্যান ফাঁকা পেজ খুঁজে দিয়ে সেগুলো বাদ দিতে সাহায্য করে।
+
+**যেভাবে করবেন:**
+
+1. বাঁ দিকে **Ask about blank pages** টিক দিন।
+2. আপনার কাগজ স্ক্যান করুন — ফ্ল্যাটবেড বা ফিডার (ADF)।
+3. স্ক্যান শেষ হলে ফাঁকা পেজগুলো **হাইলাইট** হয় এবং ভিশনস্ক্যান জিজ্ঞাসা করে *"2 blank page(s) were detected — delete them?"* মুছতে **Yes**, রাখতে **No** চাপুন।
+
+> ℹ️ **মনে রাখুন:** যদি প্রতিটি স্ক্যান সরাসরি ফাইলে সেভ হয় (**File Name** দেওয়া আছে *এবং* **Combine pages into one file** বন্ধ), তাহলে প্রতিটি পেজ স্ক্যানের সাথে সাথেই সেভ হয়ে যায় — তাই পরে ফাঁকা পেজ মুছলে সেটি প্রিভিউ থেকে যায়, কিন্তু আগে সেভ হওয়া ফাইল থেকে **যায় না**। সেভ করার **আগে** ফাঁকা পেজ যাচাই করতে চাইলে **Combine pages into one file** টিক দিন (বা File Name খালি রাখুন), তারপর ঠিক থাকলে **Save PDF** চাপুন।
 
 <br clear="all" />
 
