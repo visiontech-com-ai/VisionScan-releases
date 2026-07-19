@@ -2,7 +2,9 @@
 
 **VisionScan by [Vision Technologies and Robotics](https://www.visiontech.com.in)** — a simple Windows app to scan your papers and save them as a **PDF** (or image), in one click.
 
-➡️ **[Download the latest version](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — get the `.zip`, unzip it anywhere, and run `VisionScan.exe`. No install needed.
+➡️ **[Download VisionScan](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — from the latest release, download **`VisionScan-Setup.exe`** and run it. It installs VisionScan and adds a Start-menu shortcut — no admin needed.
+
+*Prefer no install?* Download **`VisionScan-win-x64.zip`** from the same release, unzip it anywhere, and run `VisionScan.exe` (portable).
 
 The app also updates itself from this page.
 
@@ -139,7 +141,9 @@ You can also download the newest `.zip` from the **[Releases page](https://githu
 
 **ভিশনস্ক্যান — [Vision Technologies and Robotics](https://www.visiontech.com.in) থেকে।** এটি একটি সহজ Windows অ্যাপ, যা দিয়ে আপনি আপনার কাগজ স্ক্যান করে **PDF** (বা ছবি) হিসেবে সেভ করতে পারেন — মাত্র এক ক্লিকে।
 
-➡️ **[সর্বশেষ ভার্সন ডাউনলোড করুন](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — `.zip` ফাইলটি নামিয়ে যেকোনো জায়গায় আনজিপ করুন এবং `VisionScan.exe` চালান। ইনস্টল করার দরকার নেই।
+➡️ **[ভিশনস্ক্যান ডাউনলোড করুন](https://github.com/visiontech-com-ai/VisionScan-releases/releases/latest)** — সর্বশেষ রিলিজ থেকে **`VisionScan-Setup.exe`** নামিয়ে চালান। এটি ভিশনস্ক্যান ইনস্টল করে এবং স্টার্ট-মেনুতে শর্টকাট যোগ করে — অ্যাডমিন লাগে না।
+
+*ইনস্টল করতে চান না?* একই রিলিজ থেকে **`VisionScan-win-x64.zip`** নামিয়ে যেকোনো জায়গায় আনজিপ করুন এবং `VisionScan.exe` চালান (পোর্টেবল)।
 
 অ্যাপটি নিজে থেকেই এই পেজ থেকে আপডেট নিয়ে নেয়।
 
