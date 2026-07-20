@@ -110,6 +110,24 @@ Two-sided papers often have empty backs. VisionScan can find blank pages for you
 
 ---
 
+## 6. Resize a picture (size & DPI)
+
+Need a picture at an exact size — so many pixels, a set width in cm, a certain DPI, or just a smaller file? Open (or scan) a picture, click it in the preview, then open the **Image** menu and choose **Resize**.
+
+**How:**
+
+1. Select the page in the preview, open the **Image** menu, and click **Resize**.
+2. Choose how you want to measure — **px** (pixels), **%**, **in**, **mm**, or **cm** — and type the **Width** and **Height**. Keep **Maintain aspect ratio** ticked so the picture does not stretch.
+3. *(Optional)* Set the **Resolution (DPI)** — handy for printing or passport/ID photos (for example `300`).
+4. *(Optional)* To aim for a file size, type a number in **Target file size (KB)** and click **Calculate** — VisionScan works out the new size for you.
+5. Click **OK**. The line at the bottom always shows the result, like `→ 827 × 1063 px (~180 KB JPEG)`.
+
+> 💡 The KB figure is an estimate for JPEG — the real size depends on the **File type** you save as. For a strict limit, also use **Max file size (KB)** on the left.
+
+<br clear="all" />
+
+---
+
 ## Quick start (the whole thing)
 
 1. Type a **File Name** (example: `birth-certificate`).
@@ -244,6 +262,24 @@ You can also download the newest `.zip` from the **[Releases page](https://githu
 3. স্ক্যান শেষ হলে ফাঁকা পেজগুলো **হাইলাইট** হয় এবং ভিশনস্ক্যান জিজ্ঞাসা করে *"2 blank page(s) were detected — delete them?"* মুছতে **Yes**, রাখতে **No** চাপুন।
 
 > ℹ️ **মনে রাখুন:** যদি প্রতিটি স্ক্যান সরাসরি ফাইলে সেভ হয় (**File Name** দেওয়া আছে *এবং* **Combine pages into one file** বন্ধ), তাহলে প্রতিটি পেজ স্ক্যানের সাথে সাথেই সেভ হয়ে যায় — তাই পরে ফাঁকা পেজ মুছলে সেটি প্রিভিউ থেকে যায়, কিন্তু আগে সেভ হওয়া ফাইল থেকে **যায় না**। সেভ করার **আগে** ফাঁকা পেজ যাচাই করতে চাইলে **Combine pages into one file** টিক দিন (বা File Name খালি রাখুন), তারপর ঠিক থাকলে **Save PDF** চাপুন।
+
+<br clear="all" />
+
+---
+
+## ৬. ছবির সাইজ ও DPI বদলান
+
+কোনো ছবি নির্দিষ্ট সাইজে দরকার — এত পিক্সেল, নির্দিষ্ট সেন্টিমিটার চওড়া, নির্দিষ্ট DPI, বা শুধু ছোট ফাইল? ছবিটি ওপেন (বা স্ক্যান) করে প্রিভিউতে ক্লিক করুন, তারপর **Image** মেনু খুলে **Resize** বেছে নিন।
+
+**যেভাবে করবেন:**
+
+1. প্রিভিউতে পেজটি সিলেক্ট করে **Image** মেনু খুলুন এবং **Resize** চাপুন।
+2. কীভাবে মাপবেন বেছে নিন — **px** (পিক্সেল), **%**, **in**, **mm**, বা **cm** — এবং **Width** ও **Height** লিখুন। ছবি যেন টেনে বিকৃত না হয় সেজন্য **Maintain aspect ratio** টিক রাখুন।
+3. *(ইচ্ছা করলে)* **Resolution (DPI)** দিন — প্রিন্ট বা পাসপোর্ট/আইডি ছবির জন্য কাজে লাগে (যেমন `300`)।
+4. *(ইচ্ছা করলে)* নির্দিষ্ট ফাইল সাইজ পেতে **Target file size (KB)** ঘরে সংখ্যা লিখে **Calculate** চাপুন — ভিশনস্ক্যান নতুন সাইজ হিসাব করে দেয়।
+5. **OK** চাপুন। নিচের লাইনে সবসময় ফলাফল দেখায়, যেমন `→ 827 × 1063 px (~180 KB JPEG)`।
+
+> 💡 KB সংখ্যাটি JPEG-এর জন্য আনুমানিক — আসল সাইজ নির্ভর করে আপনি কোন **File type**-এ সেভ করছেন তার উপর। কড়া সীমা রাখতে বাঁ দিকের **Max file size (KB)**-ও ব্যবহার করুন।
 
 <br clear="all" />
 
