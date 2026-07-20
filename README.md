@@ -110,7 +110,24 @@ Two-sided papers often have empty backs. VisionScan can find blank pages for you
 
 ---
 
-## 6. Resize a picture (size & DPI)
+## 6. Make a signature or stamp transparent
+
+Scanned a signature or stamp on white paper and want just the ink — with no white box around it? VisionScan can remove the white background so you can drop the mark onto another document.
+
+**How:**
+
+1. Scan (or Import) the signature, click it in the preview, open the **Image** menu, and choose **Make transparent**.
+2. Drag the slider until the white background disappears and only the ink remains — a checkerboard shows the see-through areas.
+3. Click **OK**.
+4. Set **File type** to **PNG** and click **Save** — PNG keeps the transparency. (JPEG cannot, and would put the white background back.)
+
+> 💡 Tip: **Crop** close to the signature first, then **Make transparent**, then save as PNG — you get a clean, ready-to-place mark.
+
+<br clear="all" />
+
+---
+
+## 7. Resize a picture (size & DPI)
 
 Need a picture at an exact size — so many pixels, a set width in cm, a certain DPI, or just a smaller file? Open (or scan) a picture, click it in the preview, then open the **Image** menu and choose **Resize**.
 
@@ -267,7 +284,24 @@ You can also download the newest `.zip` from the **[Releases page](https://githu
 
 ---
 
-## ৬. ছবির সাইজ ও DPI বদলান
+## ৬. সই বা সিল স্বচ্ছ (transparent) করুন
+
+সাদা কাগজে সই বা সিল স্ক্যান করেছেন, কিন্তু চারপাশের সাদা অংশ ছাড়া শুধু কালিটুকু চান? ভিশনস্ক্যান সাদা ব্যাকগ্রাউন্ড সরিয়ে দিতে পারে, যাতে সইটি অন্য ডকুমেন্টে বসানো যায়।
+
+**যেভাবে করবেন:**
+
+1. সই স্ক্যান (বা Import) করে প্রিভিউতে ক্লিক করুন, **Image** মেনু খুলে **Make transparent** বেছে নিন।
+2. স্লাইডার টেনে ঠিক করুন যতক্ষণ না সাদা ব্যাকগ্রাউন্ড মিলিয়ে যায় এবং শুধু কালি থাকে — স্বচ্ছ অংশ চেকারবোর্ড দিয়ে দেখায়।
+3. **OK** চাপুন।
+4. **File type** = **PNG** করে **Save** চাপুন — PNG স্বচ্ছতা রাখে। (JPEG পারে না, সাদা ব্যাকগ্রাউন্ড আবার ফিরে আসে।)
+
+> 💡 টিপ: আগে সইয়ের কাছাকাছি **Crop** করুন, তারপর **Make transparent**, তারপর PNG-তে সেভ করুন — পরিষ্কার, বসানোর উপযুক্ত সই পাবেন।
+
+<br clear="all" />
+
+---
+
+## ৭. ছবির সাইজ ও DPI বদলান
 
 কোনো ছবি নির্দিষ্ট সাইজে দরকার — এত পিক্সেল, নির্দিষ্ট সেন্টিমিটার চওড়া, নির্দিষ্ট DPI, বা শুধু ছোট ফাইল? ছবিটি ওপেন (বা স্ক্যান) করে প্রিভিউতে ক্লিক করুন, তারপর **Image** মেনু খুলে **Resize** বেছে নিন।
 
